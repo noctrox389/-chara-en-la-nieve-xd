@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="papyrus.png">
+
+<!-- DOWN -->
+
+<SubTexture name="papyrus down0000" x="0" y="0" width="375" height="285" frameX="0" frameY="0" frameWidth="375" frameHeight="285" />
+<SubTexture name="papyrus down0001" x="377" y="0" width="377" height="289" frameX="2" frameY="4" frameWidth="375" frameHeight="285" />
+<SubTexture name="papyrus down0002" x="764" y="0" width="370" height="291" frameX="-5" frameY="6" frameWidth="375" frameHeight="285" />
+
+<!-- IDLE -->
+	
+<SubTexture name="papyrus idle0000" x="0" y="305" width="432" height="349" frameX="0" frameY="0" frameWidth="432" frameHeight="349" />
+<SubTexture name="papyrus idle0001" x="432" y="309" width="420" height="350" frameX="-12" frameY="1" frameWidth="432" frameHeight="349" />
+<SubTexture name="papyrus idle0002" x="851" y="303" width="419" height="352" frameX="-13" frameY="3" frameWidth="432" frameHeight="349" />
+<SubTexture name="papyrus idle0003" x="1273" y="296" width="406" height="354" frameX="-26" frameY="5" frameWidth="432" frameHeight="349" />
+<SubTexture name="papyrus idle0004" x="1682" y="312" width="393" height="346" frameX="-39" frameY="-3" frameWidth="432" frameHeight="349" />
+
+<!-- LEFT -->
+	
+<SubTexture name="papyrus left0000" x="0" y="656" width="278" height="364" frameX="0" frameY="0" frameWidth="278" frameHeight="364" />
+<SubTexture name="papyrus left0001" x="289" y="655" width="276" height="365" frameX="-2" frameY="1" frameWidth="278" frameHeight="364" />
+<SubTexture name="papyrus left0002" x="565" y="660" width="270" height="364" frameX="-8" frameY="0" frameWidth="278" frameHeight="364" />
+
+<!-- RIGHT -->
+	
+<SubTexture name="papyrus right0000" x="839" y="674" width="413" height="393" frameX="0" frameY="0" frameWidth="413" frameHeight="393" />
+<SubTexture name="papyrus right0001" x="1271" y="708" width="407" height="384" frameX="-6" frameY="-9" frameWidth="413" frameHeight="393" />
+<SubTexture name="papyrus right0002" x="1686" y="717" width="389" height="374" frameX="-24" frameY="-19" frameWidth="413" frameHeight="393" />
+
+<!-- UP -->
+	
+<SubTexture name="papyrus up0000" x="0" y="1074" width="476" height="395" frameX="0" frameY="0" frameWidth="476" frameHeight="395" />
+<SubTexture name="papyrus up0001" x="479" y="1070" width="479" height="399" frameX="3" frameY="4" frameWidth="476" frameHeight="395" />
+<SubTexture name="papyrus up0002" x="956" y="1068" width="470" height="401" frameX="4" frameY="6" frameWidth="476" frameHeight="395" />
+
+<!-- END -->
+	
+</TextureAtlas>

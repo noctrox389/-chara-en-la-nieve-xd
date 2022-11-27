@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chara.png">
+
+<!-- DOWN -->
+	
+<SubTexture name="chara down0000" x="0" y="0" width="291" height="400" frameX="0" frameY="0" frameWidth="291" frameHeight="400" />
+<SubTexture name="chara down0001" x="294" y="0" width="312" height="382" frameX="21" frameY="-18" frameWidth="2052" frameHeight="2052" />
+<SubTexture name="chara down0002" x="608" y="0" width="326" height="369" frameX="35" frameY="-31" frameWidth="2052" frameHeight="2052" />
+
+<!-- IDLE -->
+	
+<SubTexture name="chara idle0000" x="0" y="409" width="219" height="413" frameX="0" frameY="0" frameWidth="219" frameHeight="413" />
+<SubTexture name="chara idle0001" x="227" y="410" width="223" height="414" frameX="4" frameY="1" frameWidth="219" frameHeight="413" />
+<SubTexture name="chara idle0002" x="452" y="408" width="227" height="424" frameX="8" frameY="11" frameWidth="219" frameHeight="413" />
+<SubTexture name="chara idle0003" x="682" y="409" width="227" height="426" frameX="8" frameY="13" frameWidth="219" frameHeight="413" />
+<SubTexture name="chara idle0004" x="916" y="418" width="223" height="427" frameX="4" frameY="14" frameWidth="219" frameHeight="413" />
+
+<!-- LEFT ES H? -->
+	
+<SubTexture name="chara left0000" x="0" y="834" width="372" height="427" frameX="0" frameY="0" frameWidth="372" frameHeight="427" />
+<SubTexture name="chara left0001" x="383" y="835" width="371" height="434" frameX="0" frameY="0" frameWidth="372" frameHeight="427" />
+<SubTexture name="chara left0002" x="760" y="844" width="379" height="438" frameX="0" frameY="0" frameWidth="372" frameHeight="427" />
+
+<!-- RIGHT -->
+	
+<SubTexture name="chara right0000" x="0" y="1268" width="366" height="390" frameX="0" frameY="0" frameWidth="366" frameHeight="390" />
+<SubTexture name="chara right0001" x="372" y="1285" width="354" height="391" frameX="-12" frameY="1" frameWidth="366" frameHeight="390" />
+<SubTexture name="chara right0002" x="735" y="1283" width="344" height="394" frameX="-22" frameY="4" frameWidth="366" frameHeight="390" />
+
+<!-- UP -->
+	
+<SubTexture name="chara up0000" x="0" y="1661" width="261" height="469" frameX="0" frameY="0" frameWidth="261" frameHeight="469" />
+<SubTexture name="chara up0001" x="270" y="1689" width="254" height="459" frameX="-7" frameY="-10" frameWidth="261" frameHeight="469" />
+<SubTexture name="chara up0002" x="553" y="1681" width="248" height="456" frameX="-13" frameY="-13" frameWidth="261" frameHeight="469" />
+
+<!-- END -->
+</TextureAtlas>

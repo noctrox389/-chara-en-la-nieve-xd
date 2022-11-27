@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="frisk.png">
+
+<!-- DOWN -->
+	
+<SubTexture name="frisk down0000" x="0" y="0" width="218" height="284" frameX="0" frameY="0" frameWidth="218" frameHeight="284" />
+<SubTexture name="frisk down0001" x="222" y="0" width="222" height="284" frameX="4" frameY="0" frameWidth="218" frameHeight="284" />
+<SubTexture name="frisk down0002" x="446" y="0" width="228" height="289" frameX="10" frameY="5" frameWidth="218" frameHeight="284" />
+
+<!-- IDLE -->
+	
+<SubTexture name="frisk idle0000" x="0" y="284" width="149" height="329" frameX="0" frameY="0" frameWidth="149" frameHeight="329" />
+<SubTexture name="frisk idle0001" x="152" y="283" width="149" height="333" frameX="0" frameY="4" frameWidth="149" frameHeight="329" />
+<SubTexture name="frisk idle0002" x="304" y="286" width="149" height="340" frameX="0" frameY="11" frameWidth="149" frameHeight="329" />
+<SubTexture name="frisk idle0003" x="457" y="288" width="148" height="343" frameX="-1" frameY="14" frameWidth="149" frameHeight="329" />
+<SubTexture name="frisk idle0004" x="607" y="290" width="148" height="343" frameX="-1" frameY="14" frameWidth="149" frameHeight="329" />
+
+<!-- LEFT -->
+	
+<SubTexture name="frisk left0000" x="0" y="619" width="226" height="326" frameX="0" frameY="0" frameWidth="226" frameHeight="326" />
+<SubTexture name="frisk left0001" x="230" y="625" width="227" height="328" frameX="1" frameY="2" frameWidth="226" frameHeight="326" />
+<SubTexture name="frisk left0002" x="482" y="637" width="223" height="330" frameX="-3" frameY="4" frameWidth="226" frameHeight="326" />
+
+<!-- UP -->
+	
+<SubTexture name="frisk up0000" x="0" y="959" width="173" height="381" frameX="0" frameY="0" frameWidth="173" frameHeight="381" />
+<SubTexture name="frisk up0001" x="179" y="964" width="173" height="378" frameX="0" frameY="-3" frameWidth="173" frameHeight="381" />
+<SubTexture name="frisk up0002" x="389" y="974" width="172" height="377" frameX="-1" frameY="-4" frameWidth="173" frameHeight="381" />
+
+<!-- RIGHT -->
+	
+<SubTexture name="frisk right0000" x="0" y="1353" width="246" height="333" frameX="0" frameY="0" frameWidth="246" frameHeight="333" />
+<SubTexture name="frisk right0001" x="246" y="1358" width="250" height="328" frameX="4" frameY="-5" frameWidth="246" frameHeight="333" />
+<SubTexture name="frisk right0002" x="495" y="1357" width="251" height="326" frameX="5" frameY="-7" frameWidth="246" frameHeight="333" />
+
+<!-- END -->
+	
+</TextureAtlas>
