@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				109,
+				-10
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "frisk left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-65
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "frisk down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-27,
+				60
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "frisk up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "frisk right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "frisk idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/frisk",
+	"position": [
+		800,
+		80
+	],
+	"healthicon": "icon-frisk",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-390,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
